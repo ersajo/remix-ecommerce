@@ -1,0 +1,8 @@
+.center {
+  @apply absolute top-1/2 left-1/2 text-white;
+  transform: translate(-50%, -50%);
+}
+
+.stroke {
+  stroke-width: 3 !important;
+}

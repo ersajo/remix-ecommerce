@@ -1,0 +1,3 @@
+.activeMenuItem {
+  @apply border-b-[#79BCCF] border-b-4 pb-9;
+}
